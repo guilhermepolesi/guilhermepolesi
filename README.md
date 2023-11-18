@@ -1,6 +1,6 @@
 ## Sobre Mim
 
-Sou um programador e estudante de tecnologia da informação. Minha entusiasmo por desafios me levou a mergulhar profundamente no mundo do desenvolvimento de software.
+Sou um programador e estudante de tecnologia da informação. Meu entusiasmo por desafios me levou a mergulhar profundamente no mundo do desenvolvimento de software.
 
 - 📚 Atualmente estou cursando Análise e Desenvolvimento de Sistemas na Universidade Municipal de São Caetano do Sul.
 - 💻 Estou constantemente aprimorando minhas habilidades em programação e desenvolvimento de software.
