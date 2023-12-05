@@ -1,12 +1,12 @@
 ## Sobre Mim
 
-Sou um programador e estudante de tecnologia da informação. Meu entusiasmo por desafios me levou a mergulhar profundamente no mundo do desenvolvimento de software.
+Sou um programador e estudante de tecnologia. Sempre gostei de desafios e de saber como as coisas funcionam, isso me levou a mergulhar profundamente no mundo da tecnologia.
 
 - 📚 Atualmente estou cursando Análise e Desenvolvimento de Sistemas na Universidade Municipal de São Caetano do Sul.
-- 💻 Estou constantemente aprimorando minhas habilidades em programação e desenvolvimento de software.
+- 💻 Estou constantemente aprimorando minhas habilidades em programação.
 - 👯 Estou interessado em colaborar em projetos que envolvam desenvolvimento de software e resolução de desafios técnicos.
-- 💬 Adoro discutir sobre desenvolvimento, tecnologia e suas aplicações no mundo real.
-- ⚡ Quando não estou estudando, gosto de jogar video game e curtir um bom rock 'n' roll.
+- 💬 Gosto de discutir sobre programação, tecnologia e suas aplicações no mundo real.
+- ⚡ Sou apaixonado por artes marciais, video games e um bom rock 'n' roll.
 
 ## Tecnologias
 
