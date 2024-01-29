@@ -2,7 +2,7 @@
 
 Sou um programador e estudante de tecnologia. Sempre gostei de desafios e de saber como as coisas funcionam, isso me levou a mergulhar profundamente no mundo da programação.
 
-- 📚 Atualmente estou cursando Análise e Desenvolvimento de Sistemas na Universidade Municipal de São Caetano do Sul.
+- 📚 Atualmente estou cursando Segurança da Informação na Universidade Municipal de São Caetano do Sul.
 - 💻 Estou constantemente aprimorando minhas habilidades em programação.
 - 👯 Estou interessado em colaborar em projetos que envolvam desenvolvimento de software e resolução de desafios técnicos.
 - 💬 Gosto de discutir sobre programação, tecnologia e suas aplicações no mundo real.
